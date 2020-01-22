@@ -8,6 +8,7 @@ namespace New_one
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("HEY! how are you?")
+            Console.WriteLine("hahahah")
         }
     }
 }
