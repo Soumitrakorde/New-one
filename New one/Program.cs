@@ -7,7 +7,7 @@ namespace New_one
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("HEY!")
+            Console.WriteLine("HEY! how are you?")
         }
     }
 }
